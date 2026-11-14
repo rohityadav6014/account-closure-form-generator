@@ -1,0 +1,6 @@
+# Allow-list: only the website files are tracked.
+# Client data (CSV/Excel), filled PDFs and screenshots must never be committed.
+*
+!.gitignore
+!index.html
+!README.md
